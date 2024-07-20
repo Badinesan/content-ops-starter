@@ -518,7 +518,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Seminars
+      - title: Competitions
         tagline: ''
         subtitle: This is the item subtitle
         text: |
