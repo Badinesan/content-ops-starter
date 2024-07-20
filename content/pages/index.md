@@ -241,7 +241,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/_40c69a66-4fe2-4cca-8aeb-8467bdb9698b.jpg
-      altText: Image alt text placeholder
+      altText: ''
       elementId: ''
       styles:
         self:
