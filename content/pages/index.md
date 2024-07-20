@@ -218,11 +218,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Advancing Knowledge in Computational Biology
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      The Computational Biology Summit 2024 offers a platform to showcase the
+      latest advancements in the field, connect with leading experts, and
+      enhance your understanding of computational biology. Join us for a
+      transformative experience.
+
+
+
     badge:
       label: Key Benefits
       color: text-primary
