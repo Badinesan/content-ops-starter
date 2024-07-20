@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join us for the Inaugural Computational Biology Summit
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Improve your knowledge of computational biology for your scientific
+      research career and to unlock advancements in the pharmaceutical and
+      biotechnology industry
+
     actions:
       - label: Get started
         altText: ''
