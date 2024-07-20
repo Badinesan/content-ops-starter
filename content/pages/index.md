@@ -287,14 +287,7 @@ sections:
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/_5a705871-e9a0-4e45-a118-5707b3bd5cc7.jpg
       altText: Dope design preview
