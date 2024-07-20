@@ -322,8 +322,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “The Computational Biology Summit was one of the best experiences I've
+          had. I learned so much throughout the event, and it provided me with
+          the tools and insights needed to tackle various challenges in my
+          professional and academic projects.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
