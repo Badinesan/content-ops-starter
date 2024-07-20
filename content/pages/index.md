@@ -568,8 +568,8 @@ sections:
         tagline: ''
         subtitle: This is the item subtitle
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Seminars offered by the greatest scientists around the world in the
+          field of bioinformatics
         image:
           url: /images/_9316bb5a-ee73-4bba-ae6a-07dd69d23e83.jpg
           altText: Placeholder image
