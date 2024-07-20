@@ -542,7 +542,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Workshops
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
