@@ -347,7 +347,7 @@ sections:
         type: FeaturedItem
       - title: '"One of the best social and scientifc experience I had."'
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'Lilia Mellek, Assistant professor, USTHB'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
