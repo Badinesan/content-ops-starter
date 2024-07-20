@@ -521,8 +521,9 @@ sections:
       - title: Competitions
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Competitions to solve industrial and health problems with rewards for
+          the best projects
         image:
           url: /images/_9f0684a2-0edd-4393-988c-24d3f659aa23.jpg
           altText: Placeholder Image
