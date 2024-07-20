@@ -65,10 +65,8 @@ sections:
       - type: FeaturedItem
         title: Professionals
         subtitle: Industry and startups
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          250€ for the 3 days
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
