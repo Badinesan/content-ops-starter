@@ -544,8 +544,9 @@ sections:
       - title: Workshops
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Workshop that introduces beginners to computer programming in the
+          field of biology
         image:
           url: /images/_838d4ebe-b00c-4d57-a168-a0b237b7de59.jpg
           altText: Placeholder image
