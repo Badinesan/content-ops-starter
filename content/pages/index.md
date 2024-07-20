@@ -280,7 +280,7 @@ sections:
         self:
           borderRadius: medium
   - title:
-      text: Business Consulting
+      text: Breakthrough scientific discoveries
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
