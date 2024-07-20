@@ -545,7 +545,7 @@ sections:
         type: FeaturedItem
       - title: Seminars
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Seminars offered by the greatest scientists around the world in the
           field of bioinformatics
