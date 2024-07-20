@@ -91,7 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: Healthcare and
+        tagline: Industry and startups
       - title: University
         subtitle: Teachers and researchers
         text: |
