@@ -497,7 +497,7 @@ sections:
     items:
       - title: Competitions
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Competitions to solve industrial and health problems with rewards for
           the best projects
