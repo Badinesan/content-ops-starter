@@ -284,9 +284,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Explore groundbreaking research and advancements in computational biology
+      field today. 
+
+
+      Look for future research topics and solutions to your actual problems in
+      multiple fields, including : cancer biology, pharmacology, biotechnology,
+      and bioinformatics
+
+
+
     actions:
       - label: Get started
         url: /
