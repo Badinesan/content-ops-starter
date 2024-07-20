@@ -283,7 +283,7 @@ sections:
       text: Breakthrough scientific discoveries
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Discuss with the best scientists in your field
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
