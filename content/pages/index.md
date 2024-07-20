@@ -322,7 +322,7 @@ sections:
           the tools and insights needed to tackle various challenges in my
           professional and academic projects.”
         tagline: Testimonial 1
-        subtitle: 'Lilia Mellek, Associate Professor, USTHB'
+        subtitle: 'Badr-Eddine ALLAL, Assistante Professor, USTHB'
         text: ''
         image:
           url: /images/person-placeholder-light.png
