@@ -327,7 +327,7 @@ sections:
           the tools and insights needed to tackle various challenges in my
           professional and academic projects.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Lilia Mellek, Associate Professor, USTHB'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
