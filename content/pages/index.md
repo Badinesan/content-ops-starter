@@ -280,43 +280,6 @@ sections:
         self:
           borderRadius: medium
   - title:
-      text: Discuss breakthrough scientific discoveries
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >+
-      Explore groundbreaking research and advancements in computational biology
-      field today. 
-
-
-      Look for future research topics and solutions to your actual problems in
-      multiple fields, including : cancer biology, pharmacology, biotechnology,
-      and bioinformatics
-
-
-
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/_5a705871-e9a0-4e45-a118-5707b3bd5cc7.jpg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
