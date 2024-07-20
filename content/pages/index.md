@@ -521,7 +521,7 @@ sections:
         type: FeaturedItem
       - title: Workshops
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Workshop that introduces beginners to computer programming in the
           field of biology
