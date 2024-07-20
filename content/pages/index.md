@@ -497,7 +497,7 @@ sections:
     items:
       - title: Competitions
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Competitions to solve industrial and health problems with rewards for
           the best projects
@@ -521,7 +521,7 @@ sections:
         type: FeaturedItem
       - title: Workshops
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Workshop that introduces beginners to computer programming in the
           field of biology
@@ -545,7 +545,7 @@ sections:
         type: FeaturedItem
       - title: Seminars
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Seminars offered by the greatest scientists around the world in the
           field of bioinformatics
