@@ -211,7 +211,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Professional Computational Biology Summit 2024
       color: text-dark
       styles:
         self:
