@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Join us for the Inaugural Computational Biology Summit
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
