@@ -91,6 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: Healthcare and
       - title: University
         subtitle: Teachers and researchers
         text: |
