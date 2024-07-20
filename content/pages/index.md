@@ -115,10 +115,8 @@ sections:
         type: FeaturedItem
       - title: Students
         subtitle: Phd and Master
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          100€ for the 3 days, including the possibility to have grants
         image:
           url: /images/icon3.svg
           altText: Featured icon three
