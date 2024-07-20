@@ -280,7 +280,7 @@ sections:
         self:
           borderRadius: medium
   - title:
-      text: Social Media Management
+      text: Discuss breakthrough scientific discoveries
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
