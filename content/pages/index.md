@@ -375,7 +375,7 @@ sections:
           am now starting Biomecanic projects with my colleague Allal
           Badr-Eddine."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Fateh, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
