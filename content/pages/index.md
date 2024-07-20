@@ -274,7 +274,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/_9f0684a2-0edd-4393-988c-24d3f659aa23.jpg
+      url: /images/_16c9b9ea-5074-4a56-92a3-ff04d69f6a05.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
