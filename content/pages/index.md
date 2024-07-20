@@ -319,7 +319,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What researcherss say about us
     items:
       - title: >-
           “The Computational Biology Summit was one of the best experiences I've
