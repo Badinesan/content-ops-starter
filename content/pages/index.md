@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Join us for the Inaugural Computational Biology Summit
+      text: Computational Biology Summit 2024
       color: text-dark
       type: TitleBlock
     subtitle: Join us for the Inaugural Computational Biology Summit
