@@ -564,7 +564,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Competitions
+      - title: Seminars
         tagline: ''
         subtitle: This is the item subtitle
         text: >
