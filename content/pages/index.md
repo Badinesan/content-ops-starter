@@ -607,7 +607,7 @@ sections:
       text: Contact Us Today for Information
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >+
       Get in touch with us for any inquiries or details regarding the
       Computational Biology Summit 2024. We are here to assist you.
