@@ -251,7 +251,7 @@ sections:
           borderRadius: medium
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Cutting-edge Research and Networking
       color: text-dark
       styles:
         self:
