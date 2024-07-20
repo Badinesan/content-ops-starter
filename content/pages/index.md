@@ -284,9 +284,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Discuss with the best scientists in your field
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Learn about major scientific advances, and improve your knowledge by
+      discovering groundbreaking discoveries.
+
+      Improve your relationships to collaborate with the best scientists in
+      multiple fields including: cancer biology, pharmacology, biotechnologies
+      and bioinformatics
+
     actions: []
     media:
       url: /images/_5a705871-e9a0-4e45-a118-5707b3bd5cc7.jpg
